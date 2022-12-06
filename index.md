@@ -1,6 +1,7 @@
-# web page
+# Big Catch Fishing
 Welome to my page!
-remote_theme: pages-themes/time-machine@v0.2.0
+
+
 Welcome to BigCatchFishing.com, the ultimate destination for casual to serious anglers of all ages. Here, you can showcase your biggest catches, connect with other fishermen, and get inspired to hit the water. 
 
 At BigCatchFishing.com, we believe that fishing isn't just a hobby, it's a way of life. Our mission is to connect fishermen of all skill levels and promote the spirit of competition. We want to make sure that everyone has the opportunity to share their stories and successes and learn from one another. 
